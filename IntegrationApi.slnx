@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IntegrationApi.Api/IntegrationApi.Api.csproj" />
+  <Project Path="IntegrationApi.Service/IntegrationApi.Service.csproj" />
+</Solution>
